@@ -9,8 +9,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\HomeAccounting.BusinessLogic.Contract\HomeAccounting.BusinessLogic.Contract.csproj" />
-    <ProjectReference Include="..\HomeAccounting.DataSource.Contract\HomeAccounting.DataSource.Contract.csproj" />
+    <ProjectReference Include="..\HomeAccounting.BusinessLogic.Contract\HomeAccounting.BusinessLogic.Contracts.csproj" />
+    <ProjectReference Include="..\HomeAccounting.DataSource.Contract\HomeAccounting.DataSource.Contracts.csproj" />
     <ProjectReference Include="..\HomeAccounting.DataSource\HomeAccounting.DataSource.csproj" />
     <ProjectReference Include="..\HomeAccouting.BusinessLogic\HomeAccounting.BusinessLogic.csproj" />
   </ItemGroup>

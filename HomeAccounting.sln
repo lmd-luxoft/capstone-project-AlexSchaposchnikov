@@ -7,15 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeAccounting.UI", "HomeAc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeAccounting.Console", "HomeAccounting.Console\HomeAccounting.Console.csproj", "{D8CF7262-32C4-4F25-BE0B-C7EB00DC208C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAccounting.BusinessLogic.Contract", "HomeAccounting.BusinessLogic.Contract\HomeAccounting.BusinessLogic.Contract.csproj", "{9B00AF58-6480-4FF5-A3D7-D604D66C97BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeAccounting.BusinessLogic.Contracts", "HomeAccounting.BusinessLogic.Contract\HomeAccounting.BusinessLogic.Contracts.csproj", "{9B00AF58-6480-4FF5-A3D7-D604D66C97BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAccounting.BusinessLogic", "HomeAccouting.BusinessLogic\HomeAccounting.BusinessLogic.csproj", "{51A809A1-313C-4EAD-B580-2533B47B40FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeAccounting.BusinessLogic", "HomeAccouting.BusinessLogic\HomeAccounting.BusinessLogic.csproj", "{51A809A1-313C-4EAD-B580-2533B47B40FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAccounting.DataSource.Contract", "HomeAccounting.DataSource.Contract\HomeAccounting.DataSource.Contract.csproj", "{E640B5CE-D9AF-4CE3-A4B3-B28EE02F1113}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeAccounting.DataSource.Contracts", "HomeAccounting.DataSource.Contract\HomeAccounting.DataSource.Contracts.csproj", "{E640B5CE-D9AF-4CE3-A4B3-B28EE02F1113}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAccounting.DataSource", "HomeAccounting.DataSource\HomeAccounting.DataSource.csproj", "{927091F4-C287-44B1-BEDF-003FAD07032C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeAccounting.DataSource", "HomeAccounting.DataSource\HomeAccounting.DataSource.csproj", "{927091F4-C287-44B1-BEDF-003FAD07032C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeAccounting.CompositionRoot", "HomeAccounting.CompositionRoot\HomeAccounting.CompositionRoot.csproj", "{2B9CB18F-A4F0-40F7-8CB6-AD19C7EA6EEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeAccounting.CompositionRoot", "HomeAccounting.CompositionRoot\HomeAccounting.CompositionRoot.csproj", "{2B9CB18F-A4F0-40F7-8CB6-AD19C7EA6EEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
